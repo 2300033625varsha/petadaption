@@ -1,4 +1,4 @@
-Pet Adoption Platform – Content
+                                                          Pet Adoption Platform
 1. Introduction
 
 A Pet Adoption Platform is an online system that connects abandoned, rescued, or homeless animals with people looking to adopt them. It simplifies the adoption process by providing verified information about pets, shelters, health records, and adoption guidelines—all in one place.
